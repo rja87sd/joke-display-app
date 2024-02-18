@@ -25,10 +25,15 @@ section {
   width: 50%;
 }
 
-div {
+#joke-container {
+  background-color: rgb(58, 56, 56);
+  border: 1px solid black;
+  border-radius: 5px;
   margin: auto;
   display: flex;
   flex-direction: column;
+  justify-content: center;
   align-items: center;
-  width: 50%;
+  width: 75%;
+  padding: 5px;
 }
