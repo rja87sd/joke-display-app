@@ -25,7 +25,7 @@ section {
   width: 50%;
 }
 
-#joke-container {
+div {
   background-color: rgb(58, 56, 56);
   border: 1px solid black;
   border-radius: 5px;
